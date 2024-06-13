@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @John-2TB
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Fullstack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me X: 2TB_G.O.A.T Instagram: #2TB_G.O.A.T
 
 <!---
