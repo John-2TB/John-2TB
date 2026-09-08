@@ -117,12 +117,31 @@ I'm also passionate about **technology, science, gospel music, and learning new 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=John-2TB&show_icons=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=John-2TB&layout=compact&hide_border=true"
-    height="165"
-  />
+   <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with other developers, learning from interesting projects, and discussing technology.
+
+- 💼 [LinkedIn](linkedin.com/in/john-koto)
+- 📧 [Email](mailto:johnkoto2tb@gmail.com)
+- 🐙 [GitHub](https://github.com/John-2TB)
+
+---
+
+### 🚀 Let's build something together
+
+Got an idea?  
+Have a project that needs a little code magic?  
+Or maybe you just want to talk tech?
+
+I'm always up for building, learning, and figuring things out along the way.
+
+```js
+while (idea) {
+  build();
+  learn();
+  improve();
+}
