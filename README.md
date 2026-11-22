@@ -126,7 +126,7 @@ I'm also passionate about **technology, science, gospel music, and learning new 
 
 I'm always open to connecting with other developers, learning from interesting projects, and discussing technology.
 
-- 💼 [LinkedIn](linkedin.com/in/john-koto)
+- 💼 [LinkedIn](https://www.linkedin.com/in/john-koto)
 - 📧 [Email](mailto:johnkoto2tb@gmail.com)
 - 🐙 [GitHub](https://github.com/John-2TB)
 
